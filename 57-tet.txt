@@ -1,0 +1,160 @@
+Red:
+
+#FF0000 RED-1
+
+#800000 RED-2
+
+#200000 RED-3
+
+
+Lime:
+
+#00FF00 LIM-1
+
+#008500 LIM-2
+
+#002000 LIM-3
+
+
+Blue:
+
+#0000FF BLU-1
+
+#000080 BLU-2
+
+#000020 BLU-3
+
+
+Cyan:
+
+#00FFFF CYA-1
+
+#008080 CYA-2
+
+#002020 CYA-3
+
+
+Magenta:
+
+#FF00FF MAG-1
+
+#800080 MAG-2
+
+#200020 MAG-3
+
+
+Yellow:
+
+#FFFF00 YEL-1
+
+#808000 YEL-2
+
+#202000 YEL-3
+
+
+Orange:
+
+#FF7F00 ORA-1
+
+#804000 ORA-2
+
+#201000 ORA-3
+
+
+Pink:
+
+#FF0080 PIN-1
+
+#800040 PIN-2
+
+#200010 PIN-3
+
+
+Thalo:
+
+#00FF80 THA-1
+
+#008040 THA-2
+
+#002010 THA-3
+
+
+Violet:
+
+#8000FF VIO-1
+
+#400080 VIO-2
+
+#100020 VIO-3
+
+
+Chartreuse:
+
+#80FF00 CHA-1
+
+#408000 CHA-2
+
+#102000 CHA-3
+
+
+Cerulean:
+
+#0080FF CER-1
+
+#004080 CER-2
+
+#001020 CER-3
+
+
+Infrared:
+
+#FF8080 INF-1
+
+#804040 INF-2
+
+#201010 INF-3
+
+
+Camo:
+
+#80FF80 CAM-1
+
+#408040 CAM-2
+
+#102010 CAM-3
+
+
+Indigo:
+
+#8080FF IND-1
+
+#404080 IND-2
+
+#101020 IND-3
+
+
+Aqua:
+
+#80FFFF AQU-1
+
+#408080 AQU-2
+
+#102020 AQU-3
+
+
+Mustard:
+
+#FFFF80 MUS-1
+
+#808040 MUS-2
+
+#202010 MUS-3
+
+
+Ultraviolet
+
+#FF80FF ULT-1
+
+#804080 ULT-2
+
+#201020 ULT-3
